@@ -544,7 +544,7 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
    };
 
    if ((event.body.toLowerCase() == "bot ka owner") || (event.body.toLowerCase() == "create you")) {
-     return api.sendMessage("‎[𝐎𝐖𝐍𝐄𝐑:☞➸⃝🐼⃝⃞⃟💙PRINCE🎸  ☜ 𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐌𝐫 𝐀𝐚𝐫𝐲𝐚𝐧. 𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :https://www.facebook.com/PRINCE SILENT.HERE", threadID);
+     return api.sendMessage("‎[𝐎𝐖𝐍𝐄𝐑:☞➸⃝🐼⃝⃞⃟💙💐𝐀𝐘𝐔𝐒𝐇 𝐒𝐇𝐑𝐈𝐕𝐀𝐒𝐓𝐀𝐕💐🎸  ☜ 𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐌𝐫 aayu. 𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :,https://www.facebook.com/profile.php?id=100051705871957&mibextid=ZbWKwL", threadID);
    };
 
    if ((event.body.toLowerCase() == "tumhe banaya kon hai") || (event.body.toLowerCase() == "tumko banaya kisne")) {
@@ -675,7 +675,7 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
           ${rand} 🤣🍁❤
 
 
-           *★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍≛⃝❦ ════ •⊰𝐀𝐑𝐘𝐀𝐍⊱• ════ ❦🍀🍒`
+           *★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍≛⃝❦ ════ •⊰💐𝐀𝐘𝐔𝐒𝐇 𝐒𝐇𝐑𝐈𝐕𝐀𝐒𝐓𝐀𝐕💐⊱• ════ ❦🍀🍒`
     }
     return api.sendMessage(msg, threadID, messageID);
   };
